@@ -1,6 +1,6 @@
 reports/
 data/
-~.docx
-~.png
-~.pdf
-~.html
+~$*.docx
+~$*.png
+~$*.pdf
+*.html
