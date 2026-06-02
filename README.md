@@ -12,8 +12,11 @@ Four internal datasets (not included in this repo):
 - `grants-with-abstract.xlsx` grant titles and abstracts (8,075 rows)
 - `ri_matches_grants_2026.xlsx` alternate grant export, used for cross-validation
 
+
 ## Notebooks
-- `northeastern_funding_basic_QC.ipynb` data loading, cleaning, null audit, and exploratory analysis
+- `01_northeastern_funding_basic_QC.ipynb` — data loading, cleaning, null audit, and exploratory analysis
+- `02_funding_analysis.ipynb` — funding concentration, college and agency breakdowns, co-PI structure, gap analysis
+- `03_topic_modeling.ipynb` — text cleaning, topic modeling with LDA, NMF, and BERTopic on grant abstracts
 
 ## Status
-Data cleaning and quality check complete.
+Data cleaning and quality check complete. Funding analysis complete. Topic modeling in progress.
