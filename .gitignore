@@ -1,5 +1,5 @@
 reports/
-data/
+~.docx
 ~$*.docx
 ~$*.png
 ~$*.pdf
