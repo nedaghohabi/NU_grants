@@ -3,4 +3,8 @@ reports/
 ~$*.docx
 ~$*.png
 ~$*.pdf
+~$*.pptx
+~$*.mp4
 *.html
+*.pptx
+*.mp4
